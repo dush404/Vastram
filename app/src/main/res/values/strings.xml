@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Vastram</string>
+    <string name="brand_title">VASTRAM</string>
+    <string name="brand_subtitle">ବସ୍ତ୍ରମ୍ · Artisanal Odisha Handlooms</string>
+    <string name="gi_tagged">GI TAGGED</string>
+    <string name="nav_explore">ଅନ୍ୱେଷଣ</string>
+    <string name="nav_voice_studio">ସ୍ୱର ତାଲିକା</string>
+    <string name="nav_loom_desk">କାର୍ଯ୍ୟାଳୟ</string>
+    <string name="nav_verify_qr">ପ୍ରମାଣିକତା</string>
+    <string name="nav_profile">Profile</string>
+    <string name="cd_whatsapp_support">Connect directly with Master Weaver on WhatsApp</string>
+    <string name="cd_profile_avatar">Weaver Profile Avatar</string>
+</resources>

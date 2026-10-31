@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Sacred Odisha Ikat Diamond & Loom Shuttle Silhouette in Raw Silk Cream -->
+    <path
+        android:fillColor="#FFFDF9F3"
+        android:pathData="M54,24 L84,54 L54,84 L24,54 Z M54,32 L32,54 L54,76 L76,54 Z M54,39 L69,54 L54,69 L39,54 Z M54,47 L47,54 L54,61 L61,54 Z" />
+</vector>

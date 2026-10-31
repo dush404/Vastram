@@ -1,0 +1,6 @@
+{
+  "name": "Vastram",
+  "description": "Artisanal Odisha Handlooms marketplace with GI provenance verification, weaver voice studio, and direct-from-loom storytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
